@@ -1,6 +1,6 @@
 # OilyGiant Well Location / Selección de Ubicación de Pozos (OilyGiant)
 
-[🇺🇸 English](#english) | [🇪🇸 Español](#español)
+[🇺🇸 English](#english) | [🇪🇸 Español](#espanol)
 
 ---
 
@@ -43,7 +43,7 @@ Through analysis and the use of Bootstrapping, it was possible to identify the m
 
 ---
 
-<a name="español"></a>
+<a name="espanol"></a>
 ## 🇪🇸 Español
 
 ### Descripción del Proyecto
