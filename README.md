@@ -4,6 +4,7 @@
 
 ---
 
+<a name="english"></a>
 ## 🇺🇸 English
 
 ### Project Description
@@ -42,6 +43,7 @@ Through analysis and the use of Bootstrapping, it was possible to identify the m
 
 ---
 
+<a name="español"></a>
 ## 🇪🇸 Español
 
 ### Descripción del Proyecto
